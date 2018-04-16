@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="POSITION_KEY">POSITION</string>
+    <string name="DATA_KEY">DATA</string>
+</resources>
